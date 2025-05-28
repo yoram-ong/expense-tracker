@@ -1,4 +1,5 @@
 💸 Expense Tracker
+
 A simple, modern Expense Tracker web app built using HTML, CSS, and JavaScript. Track your income and expenses, see your balance update in real-time, and save transactions with localStorage — no backend required!
 
 ✨ Features
@@ -12,7 +13,7 @@ A simple, modern Expense Tracker web app built using HTML, CSS, and JavaScript. 
 You can try it out by cloning the repo and opening index.html in your browser.
 
 📸 Screenshot
-> (Replace with a real screenshot once hosted or taken)
+Screenshot_20250528_170004_com.foxdebug.acodefree.jpg 
 
 🚀 Getting Started
 1. Clone the repository
